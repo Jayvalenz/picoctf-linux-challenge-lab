@@ -90,18 +90,19 @@ Screenshots:
 ## Repository Structure
 
 ```text
-picoctf-beginner-writeups/
+picoctf-linux-challenge-lab/
 ├── README.md
 ├── challenge-1-strings-it/
-│   └── screenshots/
+│   ├── challenge-1-strings-it.png
+│   └── technical-reasoning.md
+│
 ├── challenge-2-obedient-cat/
-│   └── screenshots/
-└── challenge-3-tab-tab-attack/
-    └── screenshots/
-```
-
----
-
-## Platform
-Challenges completed via PicoCTF  
-https://picoctf.org
+│   ├── challenge-2-obedient-cat.png
+│   └── technical-reasoning.md
+│
+├── challenge-3-tab-tab-attack/
+│   ├── challenge-3-tab-tab-attack.png
+│   └── technical-reasoning.md
+│
+└── documentation/
+    └── picoctf-lab.pdf
