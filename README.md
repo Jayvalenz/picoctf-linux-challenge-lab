@@ -106,3 +106,10 @@ picoctf-linux-challenge-lab/
 │
 └── documentation/
     └── picoctf-lab.pdf
+```
+---
+
+## Platform
+
+Challenges completed via PicoCTF  
+https://picoctf.org
